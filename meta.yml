@@ -1,0 +1,8 @@
+elems:
+
+  - src:  ^(cabal)$
+    dst:  ~/.<1>/config
+    only: f?haskell && f?cabal
+
+
+# vim: set filetype=eruby.yaml :
