@@ -1,0 +1,6 @@
+author:
+  name: Alessandro Molari
+  email: molari.alessandro@gmail.com
+  github:
+    username: alem0lars
+copyright: Copyright (c) <%= Time.now.year - 1 %>-<%= Time.now.year %> Alessandro Molari

@@ -4,5 +4,9 @@ elems:
     dst:  ~/.<1>/config
     only: f?haskell && f?cabal
 
+  - src:  ^(stack)\.(yaml)$
+    dst:  ~/.<1>/config.<2>
+    only: f?haskell && f?stack
+
 
 # vim: set filetype=eruby.yaml :

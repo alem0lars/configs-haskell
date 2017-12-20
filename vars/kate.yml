@@ -1,4 +1,4 @@
-# => inherits: with-cabal, generic <= #
+# => inherits: with-user-alem0lars, with-cabal, with-stack, generic <= #
 
 
 # vim: set filetype=eruby.yaml :
